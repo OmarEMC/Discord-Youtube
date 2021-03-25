@@ -1,5 +1,3 @@
-Thumbsup:
-https://discord.com/assets/08c0a077780263f3df97613e58e71744.svg
+## Project by: [OmarEMC](https://github.com/OmarEMC)
 
-Thumbsdown:
-https://discord.com/assets/66e3cbf517993ee5261f23687a2bc032.svg
+## Based on: https://www.reddit.com/r/discordapp/comments/m9aig4/if_youtube_were_owned_by_discord/ Original Design
