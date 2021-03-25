@@ -33,7 +33,7 @@ function Home() {
                 <p className="font-semibold inline text-burple">9429</p>
               </div>
               <div className="inline-block bg-burple bg-opacity-20 px-2 py-1 rounded-lg ml-2">
-                <img src="https://discord.com/assets/08c0a077780263f3df97613e58e71744.svg" className="inline w-12 h-6" />
+                <img src="https://discord.com/assets/66e3cbf517993ee5261f23687a2bc032.svg" className="inline w-12 h-6" />
                 <p className="font-semibold inline text-burple">303</p>
               </div>
 
